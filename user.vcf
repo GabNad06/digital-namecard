@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Nadeau;Gabriel;;;
 FN: Gabriel Nadeau 
-ORG:Bombardier;
+ORG:Bombardier Aero;
 TITLE:Team Lead \nMethod Andon, Global 7500
 EMAIL;type=INTERNET;type=WORK;type=pref:gabriel.nadeau@aero.bombardier.com
 TEL;type=WORK;type=VOICE:514 855 5001
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;200 Blvd. Cote-Vertu Ouest, Dorval, Quebec H9P 1A2;;;_;Canada
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:http://bnet.aero.bombardier.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
